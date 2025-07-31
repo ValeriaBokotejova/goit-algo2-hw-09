@@ -1,7 +1,7 @@
 # Local Search, Heuristics & Simulated Annealing Homework 
 **Repo:** `goit-algo2-hw-09`
 
-Three approaches to minimize the Sphere function \(f(x)=\sum_i x_i^2\) on \([-5,5]^n\):
+Three approaches to minimize the Sphere function f(x) = sum(x_i²) over x_i ∈ [−5,5]:
 
 1. **Hill Climbing**  
 2. **Random Local Search**  
